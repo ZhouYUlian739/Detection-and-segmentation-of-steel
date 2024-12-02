@@ -1,0 +1,10 @@
+results = {
+    "OursModel": {
+        "Class1_IoU": 0.807
+        "Class2_IoU": 0.894,
+        "Class3_IoU": 0.861,
+        "mIoU": 0.853,
+        "FPS": 68.55,
+        "Parameters": 0.8
+    }
+}
